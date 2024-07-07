@@ -1,7 +1,7 @@
 # Личный проект «Readme»
 
 * Студент: [Павел Борисов](https://up.htmlacademy.ru/nodejs-2/7/user/946077).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Наумов](https://htmlacademy.ru/profile/naumov_evg).
 
 ---
 
